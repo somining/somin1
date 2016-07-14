@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,h1,h2,h3,h4,h5,h6,ul,li,ol,dl,dt,dd,p,hr{
+margin:0; padding:0; list-style:none;
+}
+
+body{
+	background:url(img/bg.png) no-repeat;
+	width:1024px; margin:0 auto;
+}
+
+.container_wrap{
+	width:506px; height:536px;
+	margin:0 auto;
+	margin-top:211px;
+	background:#fdfefe;
+	border-radius:5px;
+}
+.p1{
+ text-align:center;
+ margin-top:40px;
+ font-size:34px;
+ color:#636e74;
+}
+.p2{
+ text-align:center;
+ margin-top:30px;
+ font-size:20px;
+ color:#636e74;
+}
+.container img{
+margin-top:84px;
+margin-left:191px;
+}
